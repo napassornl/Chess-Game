@@ -1,6 +1,6 @@
 # 8 Queens Game
 
-This is only the executable file of the eight queens chess game. I cannot share any of the source code as this is a class assignment and I have to abide by the class policy and not engage in plagarism.
+This is only the executable file of the eight queens chess game. I cannot share any of the source code as this is a class assignment and I have to abide by the class policy and not engage in plagiarism.
 
 # What is the Eight Queens Puzzle?
 It is a problem of placing 8 chess queens on an 8x8 chessboard so that no queens can attack one another. It was devised in 1848 by chess composer Max Bezzel and Franz Nauck published the first solutions in 1850. According to the rules of chess, the queen is the most powerful piece in the game because it is able to move any number of squares vertically, horizontally, or diagonally. Thus, in this puzzle, a solution requires that no two queens share the same row, column, or diagonal.   
